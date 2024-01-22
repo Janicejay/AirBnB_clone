@@ -1,9 +1,8 @@
-# 0x00. AirBnB Clone ― The ALX-Holberton BnB(The Console)
-![Optional Text](hbnb.png)
+# AirBnB Clone ― (The Console)
 
-## 0x00.Table of contents
+## Table of contents
 
-* [0x01 Introduction](#0x01-Introduction)
+* [Introduction](#Introduction)
 * [0x02 Environment](#0x02-Environment)
 * [0x03 Installation](#0x03-Installation)
 * [0x04 Testing](#0x04-Testing)
