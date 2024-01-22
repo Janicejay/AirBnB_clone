@@ -3,15 +3,15 @@
 ## Table of contents
 
 * [Introduction](#Introduction)
-* [0x02 Environment](#0x02-Environment)
-* [0x03 Installation](#0x03-Installation)
-* [0x04 Testing](#0x04-Testing)
-* [0x05 Usage](#0x05-Usage)
-* [0x06 Authors](#0x06-Authors)
+* [Environment](#Environment)
+* [Installation](#Installation)
+* [Testing](#Testing)
+* [Usage](#Usage)
+* [Authors](#Authors)
 
-## 0x01 Introduction
+## Introduction
 
-Team project to build a clone of [AirBnB](https://www.airbnb.com/).
+This ia an ALX Team project to build a clone of [AirBnB](https://www.airbnb.com/).
 
 The console is a command interpreter to manage objects abstraction between objects and how they are stored.
 
@@ -28,7 +28,7 @@ The console willl perform the following tasks:
 
 All the classes are handled by the `Storage` engine in the `FileStorage` Class.
 
-## 0x02 Environment
+## Environment
 
 <!-- ubuntu -->
 <a href="https://ubuntu.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=E95420&labelColor=2F333A" alt="Suite CRM"></a> <!-- bash --> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=GNU%20Bash&color=4EAA25&logo=GNU%20Bash&logoColor=4EAA25&labelColor=2F333A" alt="terminal"></a> <!-- python--> <a href="https://www.python.org" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Python&color=FFD43B&logo=python&logoColor=3776AB&labelColor=2F333A" alt="python"></a> </a> <!-- vim --> <a href="https://www.vim.org/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Vim&color=019733&logo=Vim&logoColor=019733&labelColor=2F333A" alt="Suite CRM"></a> <!-- vs code --> <a href="https://code.visualstudio.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=5C2D91&logo=Visual%20Studio%20Code&logoColor=5C2D91&labelColor=2F333A" alt="Suite CRM"></a> </a><!-- git --> <a href="https://git-scm.com/" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=Git&logoColor=F05032&labelColor=2F333A" alt="git distributed version control system"></a> <!-- github --> <a href="https://github.com" target="_blank"> <img height="" src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&logo=GitHub&logoColor=f2f2f2&labelColor=2F333A" alt="Github"></a>
@@ -39,10 +39,10 @@ All the classes are handled by the `Storage` engine in the `FileStorage` Class.
 
 All the development and testing was runned over an operating system Ubuntu 22.04 LTS using programming language Python 3.10.6. The editors used were VIM 8.1.2269, VSCode 1.6.1 and Sublime-text 3.2.5. Control version using Git 2.25.1.
 
-## 0x03 Installation
+## Installation
 
 ```bash
-git clone https://github.com/Muideen7/AirBnB_clone.git
+git clone https://github.com/Janicejay/AirBnB_clone.git
 ```
 
 change to the `AirBnb` directory and run the command:
@@ -93,7 +93,7 @@ EOF  help  quit
 $
 ```
 
-## 0x04 Testing
+## Testing
 
 All the test are defined in the `tests` folder.
 
@@ -147,7 +147,7 @@ python3 -m unittest discover tests
 ```
 
 
-## 0x05 Usage
+## Usage
 
 * Start the console in interactive mode:
 
@@ -263,19 +263,17 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 ```
 ## Authors
 <details>
-    <summary>Olayeye Muideen</summary>
+    <summary>Faith Istifanus</summary>
     <ul>
-    <li><a href="https://www.github.com/muideen7">Github</a></li>
-    <li><a href="https://www.twitter.com/OlayeyeMuideen">Twitter</a></li>
-    <li><a href="mailto:olayeyeayomide2000@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/Janicejay">Github</a></li>
+    <li><a href="https://www.twitter.com/faith_janice_">Twitter</a></li>
+    <li><a href="mailto:janicejay5@gmail.com">e-mail</a></li>
     </ul>
 </details>
 <details>
-    <summary>Brian Segem</summary>
+    <summary>Stacy Biwott</summary>
     <ul>
-    <li><a href="https://www.github.com/97fangz">Github</a></li>
-    <li><a href="https://www.twitter.com/">Twitter</a></li>
-    <li><a href="mailto:briansegem25@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/missbiwott25">Github</a></li>
     </ul>
 </details>
 
